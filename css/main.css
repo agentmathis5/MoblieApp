@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+h4 {
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+h3 {
+	text-align: center;
+}
+
+.ui-header h1.ui-title {
+	font-size: 16px;
+	margin: .6em 0;
+}
+
+.ui-footer h4.ui-title{
+	font-size: 12px;
+	margin: .3em 0;
+}
+
+.center-button{
+
+}
